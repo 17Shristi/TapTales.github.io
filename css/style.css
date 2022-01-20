@@ -1,0 +1,137 @@
+body {
+  background-color: #362222;
+  color: rgb(255, 255, 255);
+}
+nav {
+  padding: 20px 20px;
+  font-size: large;
+}
+img {
+  height: 600px;
+  width: 70%;
+}
+p {
+  font-weight: bolder;
+  font-style: italic;
+
+  font-size: 40px;
+}
+h1 {
+  text-align: center;
+  font-family: "EB Garamond", serif;
+  font-size: 75px;
+  word-spacing: 30px;
+}
+h4,
+h3 {
+  padding: 30px 20px;
+  text-align: center;
+}
+.logo {
+  height: 20px;
+}
+.pad {
+  padding-right: 5px;
+}
+.main {
+  background-color: brown;
+}
+.main2 {
+  background-color: #362222;
+  padding: 50px 50px;
+}
+.pick {
+  height: 420px;
+  width: 250px;
+  margin-left: 10px;
+}
+.pickimg {
+  height: 350px;
+  padding: 0 0;
+}
+.picp {
+  font-size: 25px;
+  text-align: center;
+  color: #362222;
+  padding-bottom: 10px;
+}
+.work {
+  background-color: brown;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+.box {
+  height: 400px;
+  width: 600px;
+  align-content: center;
+  background-color: #362222;
+  margin: 0 auto;
+  padding: 10px 10px;
+}
+.boxi {
+  height: 220px;
+  width: 150px;
+  margin: 0 auto;
+}
+.boxim {
+  color: black;
+  height: 100px;
+}
+.boxp {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px 10px;
+}
+.rbox{
+    height:max-content;
+    width:50%;
+    margin:0 auto;
+    padding: 30px 30px;
+}
+.rev{
+    padding:20px 30px;
+}
+.revimg1{
+    border-radius: 50%;
+    height: 150px;
+    width: 180px;
+    float:left;
+    padding-right: 20px;
+}
+.revimg2{
+    border-radius: 50%;
+    height: 150px;
+    width: 180px;
+    float:right;
+}
+.sbox{
+    height:max-content;
+    width: 65%;
+   margin: 0 auto;
+   padding: 50px 50px;
+}
+.s1{
+    height: 280px;
+    width: 350px;
+    float:left;
+    padding: 30px 10px;
+}
+.s2{
+    height: 280px;
+  width:350px;
+   float:right;
+   padding:30px 10px;
+
+}
+.foot{
+    margin: 0 auto;
+    
+    color: black;
+    height: max-content;
+    width: 30%;
+    text-align: center;
+}
+.bl{
+    color: black;
+    margin-bottom: 0px;
+}
